@@ -1,0 +1,27 @@
+{
+    "version": "1.0.0",
+    "summary": "A grid box model",
+    "repository": "https://github.com/zaidan/elm-gridbox.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Grid",
+        "Row",
+        "Box",
+        "Coordinate",
+        "Position",
+        "Extract",
+        "Form.Grid",
+        "Form.GridPoints",
+        "Form.Row",
+        "Form.Box"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0",
+        "evancz/elm-graphics": "1.0.1 <= v < 2.0.0",
+        "Fresheyeball/elm-guards": "1.0.1 <= v < 2.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}

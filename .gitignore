@@ -1,0 +1,20 @@
+## MAC OS
+.DS_Store
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.sw[op]
+
+## PROJECT::GENERAL
+elm-stuff
+
+## PROJECT::SPECIFIC
+
